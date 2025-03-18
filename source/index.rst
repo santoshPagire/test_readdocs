@@ -15,4 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-demo
+See the demo page
+`demo <source/demo.rst>`_
