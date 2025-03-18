@@ -12,8 +12,7 @@ documentation for details.
 
 
 .. toctree::
+   demo
    :maxdepth: 2
    :caption: Contents:
-
-See the demo page
-`demo <source/demo.rst>`_
+   
